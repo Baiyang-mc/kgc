@@ -1,0 +1,35 @@
+JScript
+
+Jscript 用户指南
+
+在 Internet 浏览器中使用 JScript
+
+JScript 语言参考
+
+FlieSystemObject 基础
+
+Script 运行时参考
+
+很多用户都是找javascript中文手册的，因为很少有javascript的中文手册，一般都是微软官方出的这个chm文档，不过迷途知返网站提供了JavaScript语言中文参考手册下载特打包提供给大家了。
+
+另外脚本之家小编还打包了
+
+1、w3cschool的JavaScript 教程 chm版
+
+2、css8 发布的javascript参考手册
+
+3、javascript-cheat-sheet.pdf
+
+4、微软Jscript手册 chm版
+
+5、迷途知返网站提供了JavaScript语言中文参考手册
+
+
+
+
+
+红黑联盟：www.2cto.com
+
+电子书频道：http://www.2cto.com/ebook/
+
+网址：http://www.2cto.com/ebook/201608/65837.html
