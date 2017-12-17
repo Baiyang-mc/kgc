@@ -481,24 +481,31 @@
 			$.each($(".check_item:checked"),function()
 				{
 					empName+=$(this).parents("tr").find("td:eq(2)").text()+",";
-					/* empId+=$(this).parents("tr").find("td:eq(1)").text()+"-"; */
+					empId+=$(this).parents("tr").find("td:eq(1)").text()+"-"; 
 				}
 			);
-			/* empName=empName.subString(0,empName.length-1); */
-			/* empId=empId.subString(0,empId.length-1); */
-			if(confirm("确认删除【"+empName+"】吗?")){
-				$.ajax(
-						{
-							url : "${APP_PATH}/emps/"
-									+ empName,
-							type : "DELETE",
-							success : function(result)
+			if(empName!=null&&empName.length>=1)
+			{
+				empName=empName.substring(0,empName.length-1);
+				empId=empId.substring(0,empId.length-1);
+				if(confirm("确认删除【"+empName+"】吗?")){
+					$.ajax(
 							{
-								alert(result.msg);
-								to_page(thisPage);
+								url : "${APP_PATH}/emps/"
+										+ empId,
+								type : "DELETE",
+								success : function(result)
+								{
+									alert(result.msg);
+									to_page(thisPage);
+								}
 							}
-						});
+						); 
+				}
+			}else{
+				alert("请选择需要删除的员工！");
 			}
+			
 		}
 	);
 	
