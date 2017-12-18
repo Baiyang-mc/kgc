@@ -497,6 +497,7 @@
 								success : function(result)
 								{
 									alert(result.msg);
+									$("#checked_all").prop("checked", false);
 									to_page(thisPage);
 								}
 							}
