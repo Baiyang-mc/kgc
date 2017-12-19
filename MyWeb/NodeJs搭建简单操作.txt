@@ -1,0 +1,14 @@
+NodeJs
+ 
+1.下载地址：https://nodejs.org/en/
+
+2.安装之后检测版本
+node -v
+
+npm -v
+
+3.运行命令行安装http-server：
+npm install -g http -server
+
+4.在网站目录下启动服务器
+http_server
