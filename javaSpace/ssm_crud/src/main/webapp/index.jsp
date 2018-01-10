@@ -123,10 +123,11 @@
 				</div>
 				<div class="modal-body">
 					<form class="form-horizontal">
-						<div class="form-group">
+						<div class="form-group has-success has-error">
 							<label class="col-sm-2 control-label">empName</label>
 							<div class="col-sm-10">
 								<input type="text" name="empName" class="form-control" id="empName_add_input" placeholder="empName">
+								<span id="helpBlock2" class="help-block"></span>
 							</div>
 						</div>
 						<div class="form-group">
@@ -318,6 +319,8 @@
 	//点击新增并弹出模态框
 	$("#emp_add_modal_btn").click(function()
 	{
+		$("#empName_add_input").empty();
+		$("#email_add_input").empty();
 		getDepts("#emp_add_modal select");
 		//弹出模态框
 		$("#emp_add_modal").modal(
@@ -346,23 +349,37 @@
 		});
 	}
 
+	function validate_add_form()
+	{
+		var empName=$("#empName_add_input").val();
+		var regName=/(^[a-zA-Z0-9_-]{6,16}$)|(^[\u2E80-\u9FFF]{3,6})/;
+		var email=$("#email_add_input").val();
+		var regemail=/^([a-zA-Z0-9_]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/;
+		return regName.test(empName)&&regemail.test(email);
+	}
 	//点击保存，添加员工信息
 	$("#empName_save_btn").click(function()
 	{
-		//1.发送ajax请求，将模态框中填写的表单数据提交给服务器
-
-		$.ajax(
+		//1.校验数据
+		var flag=validate_add_form();
+		if(flag==true)
 		{
-			url : "${APP_PATH}/emps",
-			data : $("#emp_add_modal form").serialize(),
-			type : "POST",
-			success : function(result)
+			//2.发送ajax请求，将模态框中填写的表单数据提交给服务器
+			$.ajax(
 			{
-				$("#emp_add_modal").modal('hide');
-				to_page(totalRecod + 1);
-			}
-
-		});
+				url : "${APP_PATH}/emps",
+				data : $("#emp_add_modal form").serialize(),
+				type : "POST",
+				success : function(result)
+				{
+					$("#emp_add_modal").modal('hide');
+					to_page(totalRecod + 1);
+				}
+			});
+		}else{
+			alert("输入格式不对!");
+		}
+		
 
 	});
 
@@ -469,46 +486,50 @@
 		$(".check_item").prop("checked", $("#checked_all").prop("checked"));
 	});
 
-	$(document).on("click", ".check_item", function()
-	{
-		$("#checked_all").prop("checked", $(".check_item:checked").length==$(".check_item").length);
-	});
-	
+	$(document)
+			.on(
+					"click",
+					".check_item",
+					function()
+					{
+						$("#checked_all")
+								.prop(
+										"checked",
+										$(".check_item:checked").length == $(".check_item").length);
+					});
+
 	$("#emp_delete_all_btn").click(function()
-		{	
-			var empName="";
-			var empId="";
-			$.each($(".check_item:checked"),function()
-				{
-					empName+=$(this).parents("tr").find("td:eq(2)").text()+",";
-					empId+=$(this).parents("tr").find("td:eq(1)").text()+"-"; 
-				}
-			);
-			if(empName!=null&&empName.length>=1)
+	{
+		var empName = "";
+		var empId = "";
+		$.each($(".check_item:checked"), function()
+		{
+			empName += $(this).parents("tr").find("td:eq(2)").text() + ",";
+			empId += $(this).parents("tr").find("td:eq(1)").text() + "-";
+		});
+		if (empName != null && empName.length >= 1)
+		{
+			empName = empName.substring(0, empName.length - 1);
+			empId = empId.substring(0, empId.length - 1);
+			if (confirm("确认删除【" + empName + "】吗?"))
 			{
-				empName=empName.substring(0,empName.length-1);
-				empId=empId.substring(0,empId.length-1);
-				if(confirm("确认删除【"+empName+"】吗?")){
-					$.ajax(
-							{
-								url : "${APP_PATH}/emps/"
-										+ empId,
-								type : "DELETE",
-								success : function(result)
-								{
-									alert(result.msg);
-									$("#checked_all").prop("checked", false);
-									to_page(thisPage);
-								}
-							}
-						); 
-				}
-			}else{
-				alert("请选择需要删除的员工！");
+				$.ajax(
+				{
+					url : "${APP_PATH}/emps/" + empId,
+					type : "DELETE",
+					success : function(result)
+					{
+						alert(result.msg);
+						$("#checked_all").prop("checked", false);
+						to_page(thisPage);
+					}
+				});
 			}
-			
+		} else
+		{
+			alert("请选择需要删除的员工！");
 		}
-	);
-	
+
+	});
 </script>
 </html>
