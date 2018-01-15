@@ -1,8 +1,8 @@
-'''
-Created on 2018年1月10日
+# -*- coding: UTF-8 -*-
+from urllib import request
 
-@author: baiya
-'''
-
-if __name__ == '__main__':
-    pass
+if __name__ == "__main__":
+    response = request.urlopen("http://fanyi.baidu.com/translate")
+    html = response.read()
+    html = html.decode("utf-8")
+    print(html)
