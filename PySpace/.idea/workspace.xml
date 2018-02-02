@@ -2,62 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e95cd91c-2641-46e2-93a4-28a0b39fd08a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../javaSpace/PythonLearn1/src/test/fakedata.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../javaSpace/PythonLearn1/src/test/testMeigui.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../javaSpace/PythonLearn1/src/test/testPlot.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../javaSpace/PythonLearn1/src/test/testdata.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/PythonLearn1/.project" afterPath="$PROJECT_DIR$/../javaSpace/PythonLearn1/.project" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/PythonLearn1/.pydevproject" afterPath="$PROJECT_DIR$/../javaSpace/PythonLearn1/.pydevproject" />
+      <change beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
       <change beforePath="$PROJECT_DIR$/../javaSpace/PythonLearn1/.settings/org.eclipse.core.resources.prefs" afterPath="$PROJECT_DIR$/../javaSpace/PythonLearn1/.settings/org.eclipse.core.resources.prefs" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/PythonLearn1/src/test/__init__.py" afterPath="$PROJECT_DIR$/../javaSpace/PythonLearn1/src/test/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/PythonLearn1/src/test/test.py" afterPath="$PROJECT_DIR$/../javaSpace/PythonLearn1/src/test/test.py" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/PythonLearn1/src/test/test2.py" afterPath="$PROJECT_DIR$/../javaSpace/PythonLearn1/src/test/test2.py" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/.classpath" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/.classpath" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/.project" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/.project" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/.settings/.jsdtscope" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/.settings/.jsdtscope" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/.settings/org.eclipse.jdt.core.prefs" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/.settings/org.eclipse.jdt.core.prefs" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/.settings/org.eclipse.m2e.core.prefs" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/.settings/org.eclipse.m2e.core.prefs" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/.settings/org.eclipse.wst.common.component" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/.settings/org.eclipse.wst.common.component" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/.settings/org.eclipse.wst.common.project.facet.core.xml" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/.settings/org.eclipse.wst.common.project.facet.core.xml" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/.settings/org.eclipse.wst.validation.prefs" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/.settings/org.eclipse.wst.validation.prefs" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/mbg.xml" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/mbg.xml" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/pom.xml" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/java/com/atguigu/crud/bean/Department.java" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/java/com/atguigu/crud/bean/Department.java" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/java/com/atguigu/crud/bean/DepartmentExample.java" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/java/com/atguigu/crud/bean/DepartmentExample.java" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/java/com/atguigu/crud/bean/Employee.java" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/java/com/atguigu/crud/bean/Employee.java" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/java/com/atguigu/crud/bean/EmployeeExample.java" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/java/com/atguigu/crud/bean/EmployeeExample.java" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/java/com/atguigu/crud/bean/Msg.java" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/java/com/atguigu/crud/bean/Msg.java" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/java/com/atguigu/crud/controller/DeptController.java" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/java/com/atguigu/crud/controller/DeptController.java" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/java/com/atguigu/crud/controller/EmployeeController.java" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/java/com/atguigu/crud/controller/EmployeeController.java" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/java/com/atguigu/crud/dao/DepartmentMapper.java" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/java/com/atguigu/crud/dao/DepartmentMapper.java" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/java/com/atguigu/crud/dao/EmployeeMapper.java" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/java/com/atguigu/crud/dao/EmployeeMapper.java" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/java/com/atguigu/crud/service/DepartmentService.java" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/java/com/atguigu/crud/service/DepartmentService.java" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/java/com/atguigu/crud/service/EmployeeService.java" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/java/com/atguigu/crud/service/EmployeeService.java" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/java/com/atguigu/crud/test/MBGtest.java" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/java/com/atguigu/crud/test/MBGtest.java" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/java/com/atguigu/crud/test/MapperTest.java" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/java/com/atguigu/crud/test/MapperTest.java" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/java/com/atguigu/crud/test/MvcTest.java" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/java/com/atguigu/crud/test/MvcTest.java" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/resources/applicationContext.xml" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/resources/applicationContext.xml" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/resources/dbconfig.properties" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/resources/dbconfig.properties" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/resources/mapper/DepartmentMapper.xml" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/resources/mapper/DepartmentMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/resources/mapper/EmployeeMapper.xml" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/resources/mapper/EmployeeMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/resources/mybatis-config.xml" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/resources/mybatis-config.xml" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/webapp/WEB-INF/dispatcherServlet-servlet.xml" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/webapp/WEB-INF/dispatcherServlet-servlet.xml" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/webapp/WEB-INF/views/list.jsp" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/webapp/WEB-INF/views/list.jsp" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/webapp/WEB-INF/web.xml" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/webapp/index.jsp" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/webapp/static/Jquery/js/jquery-3.2.1.min.js" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/webapp/static/Jquery/js/jquery-3.2.1.min.js" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/webapp/static/bootstrap-3.3.7-dist/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/webapp/static/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/webapp/static/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/webapp/static/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/webapp/static/bootstrap-3.3.7-dist/css/bootstrap.css" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/webapp/static/bootstrap-3.3.7-dist/css/bootstrap.css" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/webapp/static/bootstrap-3.3.7-dist/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/webapp/static/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/webapp/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/webapp/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/webapp/static/bootstrap-3.3.7-dist/js/bootstrap.js" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/webapp/static/bootstrap-3.3.7-dist/js/bootstrap.js" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/webapp/static/bootstrap-3.3.7-dist/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/webapp/static/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/webapp/static/bootstrap-3.3.7-dist/js/npm.js" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/src/main/webapp/static/bootstrap-3.3.7-dist/js/npm.js" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" />
       <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/target/m2e-wtp/web-resources/META-INF/maven/com.atguigu/ssm-curd/pom.properties" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/target/m2e-wtp/web-resources/META-INF/maven/com.atguigu/ssm-curd/pom.properties" />
-      <change beforePath="$PROJECT_DIR$/../javaSpace/ssm_crud/target/m2e-wtp/web-resources/META-INF/maven/com.atguigu/ssm-curd/pom.xml" afterPath="$PROJECT_DIR$/../javaSpace/ssm_crud/target/m2e-wtp/web-resources/META-INF/maven/com.atguigu/ssm-curd/pom.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -68,11 +17,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/test.py">
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="26" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="19" />
+            <state relative-caret-position="57">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding>
+                <element signature="e#22#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="alert.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stock-master/alert.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zdt.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stock-master/zdt.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="42" column="17" lean-forward="false" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -97,17 +68,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/venv/frsit.py" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/venv/frsit.py" />
         <option value="$PROJECT_DIR$/venv/test1.py" />
+        <option value="$PROJECT_DIR$/venv/test.py" />
+        <option value="$PROJECT_DIR$/test.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
+    <option name="x" value="-7" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
@@ -127,8 +102,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,17 +112,19 @@
             <path>
               <item name="PySpace" type="b2602c69:ProjectViewProjectNode" />
               <item name="PySpace" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="stock-master" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -168,26 +143,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test1">
-    <configuration name="frsit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.zdt">
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PySpace" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/frsit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -202,6 +177,24 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PySpace" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
@@ -223,16 +216,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="3">
+    <configuration name="zdt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stock-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PySpace" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stock-master/zdt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.test" />
-      <item index="1" class="java.lang.String" itemvalue="Python.frsit" />
-      <item index="2" class="java.lang.String" itemvalue="Python.test1" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test1" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.test (2)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.zdt" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.test1" />
-        <item index="1" class="java.lang.String" itemvalue="Python.frsit" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.zdt" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test (2)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.test (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -261,14 +276,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="20" width="1346" height="688" extended-state="0" />
+    <frame x="-7" y="0" width="1346" height="688" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14511278" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4031142" sideWeight="0.50601506" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29065743" sideWeight="0.3481203" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4031142" sideWeight="0.49398497" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29065743" sideWeight="0.6518797" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -294,7 +310,17 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/venv/test.py">
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="e#22#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stock-master/alert.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -302,11 +328,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/stock-master/zdt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="42" column="17" lean-forward="true" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#22#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/frsit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <element signature="e#22#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/venv/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -317,13 +391,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/frsit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="88" column="0" lean-forward="true" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/test1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -331,10 +398,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pip-selfcheck.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/frsit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="48" column="39" lean-forward="false" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/venv/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="26" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="19" />
+        <state relative-caret-position="205">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="e#22#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stock-master/alert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stock-master/zdt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="42" column="17" lean-forward="false" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
           <folding />
         </state>
       </provider>
